@@ -4,7 +4,7 @@ harina_str = input ("Introduce la cantidad de harina que desea que tenga su masa
 harina= float(harina_str)
 print("Las tazas de harina para la masa es", harina)
 # Solicitar al usuario la cantidad de agua (Tazas)
-agua_str= input("Introduce la cantidad de agua que desea que tenga su masa de arepas: ")
+agua_str= input("Introduce la cantidad de agua que desea utilizar para la cocción de las arepas: ")
 agua= float(agua_str)
 print("Las tazas de agua para la masa es", agua)
 # Solicitar al usuario la cantidad de aceite (cucharadas, 1 cucharada = 1/16 de taza)
